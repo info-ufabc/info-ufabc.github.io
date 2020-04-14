@@ -8,8 +8,8 @@ Bem vindo (a) ao repositório do site dos alunos e alunas de Engenhaira de Infor
 
 ## Agradecimentos
 
-[Tooplate](https://www.tooplate.com/), ao template usado como base para esse projeto.
+* [Tooplate](https://www.tooplate.com/), ao template usado como base para esse projeto.
 
-[unDraw](https://undraw.co/), às ilustrações que dão vida para a página.
+* [unDraw](https://undraw.co/), às ilustrações que dão vida para a página.
 
-[Iconscout](https://github.com/Iconscout/unicons), aos ícones usados em todo o site.
+* [Iconscout](https://github.com/Iconscout/unicons), aos ícones usados em todo o site.
